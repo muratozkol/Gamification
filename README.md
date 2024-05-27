@@ -1,3 +1,5 @@
+https://youtu.be/s0wN5tgh-S0
+
 "MysteryBoxex" adlı projenin amacı: kullanıcının dikkat, hafıza ve hesaplama yeteneklerini ölçen "Gamification" türünde bir oyundur.
 
 Kullanıcı "A" ve "D" tuşlarıyla yatay eksende hareket sağlamakta ve "Space" tuşu ile zıplama fonksiyonlarını gerçekleştirebilmektedir.
