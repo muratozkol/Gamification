@@ -1,4 +1,4 @@
-MysteryBoxes
+<h1>MysteryBoxes</h1>
 
 MysteryBoxes, kullanıcıların dikkat, hafıza ve hesaplama yeteneklerini ölçen bir "gamification" türünde oyundur.
 
