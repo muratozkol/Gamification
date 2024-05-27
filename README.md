@@ -1,6 +1,7 @@
 # MysteryBoxes
 
 MysteryBoxex, kullanıcıların dikkat, hafıza ve hesaplama yeteneklerini ölçen bir "gamification" türünde oyundur.
+
 **Youtube Game Tutorial:** https://youtu.be/s0wN5tgh-S0
 
 ## Nasıl Oynanır?
