@@ -19,8 +19,6 @@ Her doğru hedef sayıya ulaşımda kullanıcının skoru "10"ar "10"ar artmakta
 Karakterin canı bittiğinde veya süresi kalmadığında oyun sonlandırılıp kullanıcının skoru gösterilmektedir.
 
 
-
-
 (Başlangıç Ekranı)
 ![Ekran görüntüsü 2024-05-27 031914](https://github.com/muratozkol/Gamification/assets/72967829/77d3b745-d0e1-4414-aff4-cbd850b7fdd4)
 
