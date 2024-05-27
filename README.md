@@ -1,5 +1,3 @@
-# Creating the content for the README file
-readme_content = """
 # MysteryBoxex
 
 MysteryBoxex, kullanıcıların dikkat, hafıza ve hesaplama yeteneklerini ölçen bir "gamification" türünde oyundur.
@@ -26,16 +24,12 @@ MysteryBoxex, kullanıcıların dikkat, hafıza ve hesaplama yeteneklerini ölç
 ## Ekran Görüntüleri
 
 ### Başlangıç Ekranı
-![Başlangıç Ekranı](https://github.com/muratozkol/Gamification/assets/72967829/77d3b745-d0e1-4414-aff4-cbd850b7fdd4)
+<img src="https://github.com/muratozkol/Gamification/assets/72967829/77d3b745-d0e1-4414-aff4-cbd850b7fdd4" width="500">
 
 ### Oyun Ekranı
-![Oyun Ekranı 1](https://github.com/muratozkol/Gamification/assets/72967829/86ff0e39-07ca-4110-a5c3-40a5f2359695)
-![Oyun Ekranı 2](https://github.com/muratozkol/Gamification/assets/72967829/5123e422-2479-4d4a-a0c0-50dd79c00033)
+<img src="https://github.com/muratozkol/Gamification/assets/72967829/86ff0e39-07ca-4110-a5c3-40a5f2359695" width="500">
+<img src="https://github.com/muratozkol/Gamification/assets/72967829/5123e422-2479-4d4a-a0c0-50dd79c00033" width="500">
 
 ### Game Over Ekranı
-![Game Over Ekranı](https://github.com/muratozkol/Gamification/assets/72967829/bddfbbe3-5ae7-4ef7-8032-028a8ccceacc)
+<img src="https://github.com/muratozkol/Gamification/assets/72967829/bddfbbe3-5ae7-4ef7-8032-028a8ccceacc" width="500">
 """
-
-# Writing the content to a txt file
-with open("/mnt/data/MysteryBoxex_README.txt", "w") as file:
-    file.write(readme_content)
