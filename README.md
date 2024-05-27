@@ -15,3 +15,16 @@ Karakterin 3 canı mevcuttur ve her yanlış kutuyla veya tuzakla etkileşime gi
 Her doğru hedef sayıya ulaşımda kullanıcının skoru "10"ar "10"ar artmaktadır.
 
 Karakterin canı bittiğinde veya süresi kalmadığında oyun sonlandırılıp kullanıcının skoru gösterilmektedir.
+
+
+(Başlangıç Ekranı)
+![Ekran görüntüsü 2024-05-27 031914](https://github.com/muratozkol/Gamification/assets/72967829/77d3b745-d0e1-4414-aff4-cbd850b7fdd4)
+
+
+(Oyun Ekranı)
+![Ekran görüntüsü 2024-05-27 031816](https://github.com/muratozkol/Gamification/assets/72967829/86ff0e39-07ca-4110-a5c3-40a5f2359695)
+
+(Game Over Ekranı)
+![Ekran görüntüsü 2024-05-27 031849](https://github.com/muratozkol/Gamification/assets/72967829/bddfbbe3-5ae7-4ef7-8032-028a8ccceacc)
+
+
