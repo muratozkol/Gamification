@@ -32,4 +32,4 @@ MysteryBoxex, kullanıcıların dikkat, hafıza ve hesaplama yeteneklerini ölç
 
 ### Game Over Ekranı
 <img src="https://github.com/muratozkol/Gamification/assets/72967829/bddfbbe3-5ae7-4ef7-8032-028a8ccceacc" width="500">
-"""
+
