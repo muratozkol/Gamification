@@ -36,6 +36,7 @@ MysteryBoxes, kullanıcıların dikkat, hafıza ve hesaplama yeteneklerini ölç
 
 ### Oyun Ekranı
 <img src="https://github.com/muratozkol/Gamification/assets/72967829/86ff0e39-07ca-4110-a5c3-40a5f2359695" width="400">
+
 <img src="https://github.com/muratozkol/Gamification/assets/72967829/5123e422-2479-4d4a-a0c0-50dd79c00033" width="400">
 
 ---
