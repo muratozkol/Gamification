@@ -1,8 +1,10 @@
-# MysteryBoxes
+MysteryBoxes
 
 MysteryBoxex, kullanıcıların dikkat, hafıza ve hesaplama yeteneklerini ölçen bir "gamification" türünde oyundur.
 
-**Youtube Game Tutorial:** https://youtu.be/s0wN5tgh-S0
+Youtube Game Tutorial: MysteryBoxes Oyun Eğitimi: https://youtu.be/s0wN5tgh-S0
+
+---
 
 ## Nasıl Oynanır?
 
@@ -23,15 +25,26 @@ MysteryBoxex, kullanıcıların dikkat, hafıza ve hesaplama yeteneklerini ölç
    - Her doğru hedef sayıya ulaşımda, kullanıcının skoru 10'ar 10'ar artar.
    - Karakterin canı bittiğinde veya süresi kalmadığında oyun sona erer ve kullanıcının skoru gösterilir.
 
+---
+
 ## Ekran Görüntüleri
 
 ### Başlangıç Ekranı
-<img src="https://github.com/muratozkol/Gamification/assets/72967829/77d3b745-d0e1-4414-aff4-cbd850b7fdd4" width="500">
+![Başlangıç Ekranı](https://github.com/muratozkol/Gamification/assets/72967829/77d3b745-d0e1-4414-aff4-cbd850b7fdd4)
+
+---
 
 ### Oyun Ekranı
-<img src="https://github.com/muratozkol/Gamification/assets/72967829/86ff0e39-07ca-4110-a5c3-40a5f2359695" width="500">
-<img src="https://github.com/muratozkol/Gamification/assets/72967829/5123e422-2479-4d4a-a0c0-50dd79c00033" width="500">
+![Oyun Ekranı 1](https://github.com/muratozkol/Gamification/assets/72967829/86ff0e39-07ca-4110-a5c3-40a5f2359695)
+![Oyun Ekranı 2](https://github.com/muratozkol/Gamification/assets/72967829/5123e422-2479-4d4a-a0c0-50dd79c00033)
+
+---
 
 ### Game Over Ekranı
-<img src="https://github.com/muratozkol/Gamification/assets/72967829/bddfbbe3-5ae7-4ef7-8032-028a8ccceacc" width="500">
+![Game Over Ekranı](https://github.com/muratozkol/Gamification/assets/72967829/bddfbbe3-5ae7-4ef7-8032-028a8ccceacc)
 
+---
+
+## İletişim
+
+Mail: ozkolm1@gmail.com
