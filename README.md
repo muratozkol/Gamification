@@ -27,6 +27,9 @@ Karakterin canı bittiğinde veya süresi kalmadığında oyun sonlandırılıp 
 
 **(Oyun Ekranı)**
 ![Ekran görüntüsü 2024-05-27 031816](https://github.com/muratozkol/Gamification/assets/72967829/86ff0e39-07ca-4110-a5c3-40a5f2359695)
+![Ekran görüntüsü 2024-05-27 112651](https://github.com/muratozkol/Gamification/assets/72967829/5123e422-2479-4d4a-a0c0-50dd79c00033)
+
+
 
 **(Game Over Ekranı)**
 ![Ekran görüntüsü 2024-05-27 031849](https://github.com/muratozkol/Gamification/assets/72967829/bddfbbe3-5ae7-4ef7-8032-028a8ccceacc)
